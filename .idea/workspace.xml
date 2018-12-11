@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07349094-9cbd-4cda-bbd6-04c055c4be31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-19-readability-post-ko.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-01-19-readability-post-ko.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="411">
+              <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -175,7 +176,7 @@
       <updated>1544511369610</updated>
       <workItem from="1544511370904" duration="2044000" />
       <workItem from="1544513467054" duration="483000" />
-      <workItem from="1544513986676" duration="5693000" />
+      <workItem from="1544513986676" duration="6029000" />
     </task>
     <task id="LOCAL-00001" summary="CIEN">
       <created>1544512591077</created>
@@ -219,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544525513103</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="CIEN : Blog theme">
+      <created>1544525891640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544525891640</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8220000" />
+    <option name="totallyTimeSpent" value="8556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -236,7 +244,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="91" y="63" width="1399" height="966" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20279206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        <state relative-caret-position="411">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
         </state>
       </provider>
     </entry>
