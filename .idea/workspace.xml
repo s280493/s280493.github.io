@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07349094-9cbd-4cda-bbd6-04c055c4be31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="07349094-9cbd-4cda-bbd6-04c055c4be31" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,7 +15,7 @@
     <session id="1062959502">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.opened" value="3" />
@@ -241,7 +238,7 @@
       <updated>1544511369610</updated>
       <workItem from="1544511370904" duration="2044000" />
       <workItem from="1544513467054" duration="483000" />
-      <workItem from="1544513986676" duration="9417000" />
+      <workItem from="1544513986676" duration="9445000" />
     </task>
     <task id="LOCAL-00001" summary="CIEN">
       <created>1544512591077</created>
@@ -327,11 +324,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544527456448</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CIEN : Blog theme">
+      <created>1544531026684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544531026684</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11944000" />
+    <option name="totallyTimeSpent" value="11972000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
