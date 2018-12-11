@@ -55,14 +55,18 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
+  - name:           "diary"
+    url:            "/tags/#diary"
+  - name:           "study"
+    url:            "/tags/#study"
+  - name:           "playground"
+    url:            "/tags/#playground"
+  - name:           "develop"
+    url:            "/tags/#develop"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Go Back Home"
-    url:            "https://gardenintheair.com"
+#  - name:           "Go Back Home"
+#    url:            "https://gardenintheair.com"
 
 # Sass
 sass:
